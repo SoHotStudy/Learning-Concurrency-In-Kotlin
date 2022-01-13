@@ -1,6 +1,10 @@
 ## 코틀린 동시성 스터디
 
+![Cover](assets/cover.jpeg)
+
 ### 진행방식
+
+일정 조율 후 결정
 
 #### Contributors
 

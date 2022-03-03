@@ -8,12 +8,12 @@
 
 - 주토론자 순서
 
-|순번|이름|챕터|날짜|
-|---|---|---|---|
-|1|강현식|1,2|22.02.10|
-|2|김문근|3,4|22.02.17|
-|3|김성윤|5,6|22.02.24|
-|4|서종현|-|22.03.03|
+|순번|이름|챕터|날짜|문서|
+|---|---|---|---|---|
+|1|강현식|1,2|22.02.10|[링크](https://github.com/SoHotStudy/Learning-Concurrency-In-Kotlin/blob/main/20220210.md)|
+|2|김문근|3,4|22.02.17|[링크](https://github.com/SoHotStudy/Learning-Concurrency-In-Kotlin/blob/main/20220217.md)|
+|3|김성윤|5,6|22.02.24|[링크](https://github.com/SoHotStudy/Learning-Concurrency-In-Kotlin/blob/main/20220224.md)|
+|4|서종현|7|22.03.03|[링크](https://github.com/SoHotStudy/Learning-Concurrency-In-Kotlin/blob/main/20220303.md)|
 |5|홍휘진|-|22.03.10|
 |6|김세윤|-|22.03.17|
 |7|맹기완|-|22.03.24|
